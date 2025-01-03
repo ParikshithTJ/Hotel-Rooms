@@ -26,6 +26,7 @@ body {
   }
   /* ROOM TITLE */
   .roomCategory {
+    margin: 80px;
     text-align: center;
     font-family: "Tangerine", cursive;
     font-weight: 200;
